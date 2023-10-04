@@ -1,0 +1,11 @@
+First django model
+view 
+templates 
+view context 
+dynamic posts / adding images 
+setting up media folder 
+view template 
+upload form 
+default posts 
+messages framework 
+bootstrap, navbar etc 
